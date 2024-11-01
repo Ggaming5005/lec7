@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./app.css";
+import "./App.css";
 import MySVG from "./assets/Frame.svg";
 import MySVG1 from "./assets/Group 2.svg";
 
